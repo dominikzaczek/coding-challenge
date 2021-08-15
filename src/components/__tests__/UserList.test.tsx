@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import UsersList from "./components/UsersList";
+import UsersList from "../UsersList";
 
 const unfilteredUserTestData = [
   {
